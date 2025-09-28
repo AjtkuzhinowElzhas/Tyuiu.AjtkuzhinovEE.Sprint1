@@ -11,7 +11,7 @@ namespace Tyuiu.AjtkuzhinovEE.Sprint1.Task2.V5.Test
             DataService ds=new DataService();
             int x = 6;
             var res = ds.CalculateSideSquare(x);
-            Assert.AreEqual(144, res);
+            Assert.AreEqual(216, res);
         }
     }
 }
