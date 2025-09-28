@@ -1,4 +1,4 @@
-﻿using Tyuiu.AltkuzhinovEE.Sprint1.Task3.V5.Lib;
+﻿using Tyuiu.AjtkuzhinovEE.Sprint1.Task3.V5.Lib;
 
 
 //ЗАДАНИЕ :

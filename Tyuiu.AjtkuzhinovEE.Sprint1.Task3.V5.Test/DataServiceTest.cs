@@ -1,6 +1,6 @@
-﻿using Tyuiu.AjtkuzhinovEE.Sprint1.Task3.V5.Lib;
+﻿using Tyuiu.AltkuzhinovEE.Sprint1.Task3.V5.Lib;
 
-namespace Tyuiu.AjtkuzhinovEE.Sprint1.Task3.V5.Test
+namespace Tyuiu.AltkuzhinovEE.Sprint1.Task3.V5.Test
 {
     [TestClass]
     public sealed class DataServiceTest
