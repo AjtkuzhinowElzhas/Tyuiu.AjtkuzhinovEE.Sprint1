@@ -6,7 +6,7 @@ namespace Tyuiu.AjtkuzhinovEE.Sprint1.Task2.V5.Lib
     {
         public int CalculateSideSquare(int value)
         {
-            return 4*value*value;
+            return 4*(value*value);
         }
     }
 }
